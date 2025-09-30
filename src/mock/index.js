@@ -2,7 +2,7 @@ export const  DATA = [
   // telefonlar
   {
     id: 'model-1',
-    price: '7 235 200',
+    price: '7 235 200 UZS',
     title: 'zello PTT 4G LTE',
     star: '⭐ 4.8',
     people:'844 купили',
@@ -11,7 +11,7 @@ export const  DATA = [
   },
   {
     id: 'model-2',
-    price: '1 775 238.40',
+    price: '1 775 238.40 UZS',
     title: 'Android 15 Cubot P90',
     star: '⭐ 4.7',
     people: '268 купили',
@@ -20,7 +20,7 @@ export const  DATA = [
   },
   {
     id: 'model-3',
-    price: '1 945 844.40',
+    price: '1 945 844.40 UZS',
     title: 'UMIDIGI F1',
     star: '⭐5.0',
     people: '25 купили',
@@ -29,7 +29,7 @@ export const  DATA = [
   },
   {
     id: 'model-4',
-    price: '1 134 316.67',
+    price: '1 134 316.67 UZS',
     title: 'Pad 9 Ultra 11',
     star: '⭐5.0',
     people: '22 купили',
@@ -39,7 +39,7 @@ export const  DATA = [
 
   {
     id: 'model-5',
-    price: '5 173 922.53 ',
+    price: '5 173 922.53 UZS',
     title: 'IIIF150 Raptor',
     star: '⭐4.8',
     people: '575 купили',
@@ -48,7 +48,7 @@ export const  DATA = [
   },
   {
     id: 'model-6',
-    price: '1 546 752 ',
+    price: '1 546 752 UZS',
     title: 'SOYES F9 Max 4G ',
     star: '⭐4.1',
     people: '41 купили',
@@ -57,7 +57,7 @@ export const  DATA = [
   },
   {
     id: 'model-7',
-    price: '2 414 976 ',
+    price: '2 414 976 UZS ',
     title: 'Poco M7',
     star: '⭐4.8',
     people: '393 купили',
@@ -66,7 +66,7 @@ export const  DATA = [
   },
   {
     id: 'model-8',
-    price: '2 176 518.40',
+    price: '2 176 518.40 UZS',
     title: 'AGM H Max',
     star: '⭐5.0',
     people: '12 купили',
@@ -75,7 +75,7 @@ export const  DATA = [
   },
   {
     id: 'model-9',
-    price: '5 176 600',
+    price: '5 176 600 UZS',
     title: 'Poco X7 Pro',
     star: '⭐4.9',
     people: '3,800 купили',
@@ -84,7 +84,7 @@ export const  DATA = [
   },
   {
     id: 'model-10',
-    price: '1 852 952.29',
+    price: '1 852 952.29 UZS',
     title: 'IIIF150 B3',
     star: '⭐5.0',
     people: '9 купили',
@@ -94,7 +94,7 @@ export const  DATA = [
   // soatlar
   {
     id: 'model-11',
-    price: '45 235.20',
+    price: '45 235.20 UZS',
     title: 'Minimalist',
     star: '⭐4.1',
     people: '2,303 купили',
@@ -103,7 +103,7 @@ export const  DATA = [
   },
   {
     id: 'model-12',
-    price: '12 403.20',
+    price: '12 403.20 UZS',
     title: 'Apple Watch',
     star: '⭐4.7',
     people: '3867 купили',
@@ -112,7 +112,7 @@ export const  DATA = [
   },
   {
     id: 'model-13',
-    price: '720 625.92',
+    price: '720 625.92 UZS',
     title: 'PINTIME Crash',
     star: '⭐4.5',
     people: '255 купили',
@@ -121,7 +121,7 @@ export const  DATA = [
   },
   {
     id: 'model-14',
-    price: '17 145.60',
+    price: '17 145.60 UZS',
     title: 'Силиконовый ремешок для Apple Watch HUBANDE',
     star: '⭐4.7',
     people: '5655 купили',
@@ -130,7 +130,7 @@ export const  DATA = [
   },
   {
     id: 'model-15',
-    price: '296 486.09 ',
+    price: '296 486.09 UZS',
     title: 'Apple GPS Watch 10 ',
     star: '⭐5.0',
     people: '277 купили',
@@ -139,7 +139,7 @@ export const  DATA = [
   },
   {
     id: 'model-16',
-    price: '15 469 436.42 ',
+    price: '15 469 436.42 UZS',
     title: 'OUPINKE 3176',
     star: '⭐4.9',
     people: '1 купили',
@@ -148,7 +148,7 @@ export const  DATA = [
   },
   {
     id: 'model-17',
-    price: '9 574.03',
+    price: '9 574.03 UZS',
     title: 'Casio',
     star: '⭐ 3.6',
     people: '367 купили',
@@ -157,7 +157,7 @@ export const  DATA = [
   },
   {
     id: 'model-18',
-    price: '599 123.20',
+    price: '599 123.20 UZS',
     title: 'CMF Watch Pro',
     star: '⭐4.7',
     people: '3,859 купили',
@@ -166,7 +166,7 @@ export const  DATA = [
   },
   {
     id: 'model-19',
-    price: '170 848 ',
+    price: '170 848 UZS',
     title: 'Gorben Millennium',
     star: '⭐4.9',
     people: '617 купили',
@@ -175,7 +175,7 @@ export const  DATA = [
   },
   {
     id: 'model-20',
-    price: '3 080 675.81',
+    price: '3 080 675.81 UZS',
     title: 'OUPINKE 3213',
     star: '⭐4.7',
     people: '82 купили',
