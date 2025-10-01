@@ -53,6 +53,9 @@ const Footer = () => {
             <li className='text-[blue]'>На информационном ресурсе применяются рекомендательные технологии</li>
           </ul>
         </div>
+        <div className="bot  w-[200px] absolute left-[1110px]">
+          <p className='text-[18px] text-[blue]'>created by NoName</p>
+        </div>
       </div>
       </footer>
     </div>
